@@ -4,6 +4,6 @@ const {
 
 module.exports = defineConfig({
   transpileDependencies: ["vuetify"],
-  publicPath: "/vandar-test/"
+  publicPath: "/panel/"
 
 });
